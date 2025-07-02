@@ -17,7 +17,7 @@ Excel/CSV
 
 Calculated Fields & Parameters
 
-Donut, Bar, Line Charts
+Column, Bar, Line Charts
 
 **🔍 Key Tasks Performed**
 ✅ Data Preparation & Cleanup
